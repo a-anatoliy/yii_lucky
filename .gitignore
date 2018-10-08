@@ -1,0 +1,28 @@
+# Logs and databases #
+######################
+*.log
+# *.sql
+*.sqlite
+
+# -- Media files
+*.jpg
+*.mov
+*.avi
+# -- archives
+*.zip
+*.7z
+
+.idea
+.idea/*
+
+data/cfg/config.php
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+*.lock
+package-lock.json
